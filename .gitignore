@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+# other files
+.env
+crawl-to-test.py
+main.py
